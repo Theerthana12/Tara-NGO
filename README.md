@@ -30,10 +30,7 @@ tara-ngo/
 
 - HTML5  
 - CSS3
-<<<<<<< HEAD
  -Bootstrap 
-=======
->>>>>>> 9d4133d4d187ff83d8eb296cee87b0a02a024a08
 
 ---
 
